@@ -1,0 +1,13 @@
+{
+  "name": "felix-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio of Felix Akatia Edoukou Porquet, built with TypeScript, HTML and CSS.",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
